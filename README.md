@@ -49,7 +49,7 @@ decryption()
 
 This project is finished.
 
-Feel free to use the code to learn more about quantum computing. Make a copy of the notebook, change values, variables, functions - play with it. Simulate. Find answers to your questions - challenge them! Make better answers. Will you try it, at least?
+Feel free to use the code to learn more about quantum computing. Make a copy of the [notebook](https://github.com/catburger1337/paul_allens_folio/blob/main/QxQ_Capstone_Quantum_Encrypt_QKD.ipynb), change values, variables, functions - play with it. Simulate. Find answers to your questions - challenge them! Make better answers. Will you try it, at least?
 
 ## License
 
