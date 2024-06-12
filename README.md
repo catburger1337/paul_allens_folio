@@ -10,9 +10,14 @@ studied over the weeks 9, 10 and 11.
 
 ## Description
 
+Status: finished.
 
+Quantum Key Distribution uses some principles of quantum mechanics like entanglement, measurement, no-cloning theorem and the uncertainty principle.
 
-Placeholder.
+A sender and a receiver exchange classical messages through a quantum channel that may have the presence of an eavesdropper. The messages are encoded by a random selection of quantum states (|0>, |1> in the Z basis and |+>, |-> in the X basis). A comparision of basis and bits over a classical channel generates a secret key. If they can't agree about the string of qubits they shared, then an eavesdropper tried to intercept information during the process.
+
+Tipically, those with access to a quantum mechanics lab play with photons to produce bell-states.
+Here, I'm a doing a (classical) simulation of QKD with a Python library called Cirq.
 
 
 ## Usage
@@ -42,8 +47,11 @@ decryption()
 
 ## Contributing
 
-This project is not accepting contributions for now.
+This project is finished.
+
+Feel free to use the code to learn more about quantum computing. Make a copy of the notebook, change values, variables, functions - play with it. Simulate. Find answers to your questions - challenge them! Make better answers. Will you try it, at least?
 
 ## License
 
+Click the link to understand how a MIT license works.
 [MIT](https://choosealicense.com/licenses/mit/)
