@@ -16,7 +16,7 @@ Quantum Key Distribution uses some principles of quantum mechanics like entangle
 
 A sender and a receiver exchange classical messages through a quantum channel that may have the presence of an eavesdropper. The messages are encoded by a random selection of quantum states (|0>, |1> in the Z basis and |+>, |-> in the X basis). A comparision of basis and bits over a classical channel generates a secret key. If they can't agree about the string of bits they shared, then an eavesdropper tried to intercept information during the process.
 
-Tipically, those with access to a quantum mechanics lab play with photons to produce bell-states.
+Tipically, those with access to a quantum mechanics lab play with photons to produce Bell states.
 Here, I'm a doing a (classical) simulation of QKD with a Python library called Cirq.
 
 
